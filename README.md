@@ -10,4 +10,4 @@ App simples que exibe informações de uma empresa fictícia num formato de cart
 
 ## Copyright
 
-Esse projeto foi desenvolvido por Márcio Souza de Oliveira.
+Esse projeto foi desenvolvido por Márcio Souza de Oliveira em 31/08/2016.
