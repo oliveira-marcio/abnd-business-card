@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Patio Carioca Volleyball</string>
+    <string name="business_name">@string/app_name</string>
+    <string name="business_description">Group formed to join members of Patio Carioca Residencial Clube and their family and friends to organize volleyball matches</string>
+    <string name="business_address1">Rua Bernardo Taveira, 275</string>
+    <string name="business_address2">21220-290 - Rio de Janeiro - RJ</string>
+    <string name="business_phone1">(21) 98765-4321</string>
+    <string name="business_phone2">(21) 3322-4466</string>
+    <string name="business_email">volleyball@patiocarioca.com.br</string>
+
+</resources>
